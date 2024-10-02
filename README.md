@@ -1,10 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ryszard Schossler</h1>
-<h3 align="center">A passionate mobile/part-time embedded developer</h3>
-
+<h3 align="center">Flutter Developer</h3>
+<h4 align="center">Swift Developer</h4>
 <img src="https://cdn.dribbble.com/users/638428/screenshots/3641004/code2.gif" width=400 align="right">
 
 
-- 🌱 I’m currently learning **Swift, Flutter**
+- 🌱 I create mobile apps using **Flutter** and **Swift**
+
+- 🚧 Creator and Maintainer of [appwrite_error_handling package](https://pub.dev/packages/appwrite_error_handling)
+
+- 📱 Creator of [Carlog](https://carlog.rsapps.org/#/home)
 
 - 💬 Ask me about **Mobile Apps, Micropython, IoT**
 
